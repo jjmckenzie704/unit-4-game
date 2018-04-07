@@ -25,4 +25,4 @@ The random number shown at the start of the game should be between 19 - 120.
 
 Each crystal should have a random hidden value between 1 - 12.
 
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
+Per instructions, added a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. Click on the Emerald image in my Bootstrap-Portfolio/portfolio.
