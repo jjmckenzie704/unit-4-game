@@ -43,14 +43,12 @@ $(".image").click(function() {
         gameover = true;
         losses++;
         $("#losses").html(losses);
-        alert("You lost!");
         resetCrystals()
     }
     else if (totalScore == targetNumber) {
         gameover = true;
         wins++;
         $("#wins").html(wins);
-        alert("You win!");
         resetCrystals()
     }
 });
