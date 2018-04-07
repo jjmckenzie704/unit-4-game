@@ -1,0 +1,63 @@
+body {
+    background: linear-gradient(to right, #00c9ff, #92fe9d);
+}
+
+.jumbotron {
+    background-color: #c97126;
+	color: white;
+}
+
+.content {
+    background-color: #fbe6cd;
+    color: green;
+    
+}
+
+#randbox {
+    background: #5bc880;
+    color: purple;
+    height: 85px;
+    width: 180px;
+    float: left;
+
+}
+
+#winsloss {
+    background: #4afdfe;
+    height: 85px;
+    width: 90px;
+    padding: 10px 0;
+
+}
+
+.jumbotron, .content, #randbox, #winsloss, .scorecontainer, #score, #crystals {
+    margin: 4px;
+}
+
+#score {
+    background: #2ca394;
+    height: 25px;
+    width: 180px;
+    color: white;
+}
+.scorecontainer {
+    height: 85px;
+    width: 180px;
+    background: #2ca394;
+    color: white;
+}
+
+.crystal-image img {
+    max-width: 75px;
+    width: 100%;
+    height: 75px;
+}
+
+/* Media Queries */
+@media all and (max-width: 691px) {
+
+.scorecontainer {
+    margin: 0;
+}
+
+}
